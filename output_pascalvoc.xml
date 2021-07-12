@@ -1,0 +1,102 @@
+<annotation> 
+	 <folder>2dimage_supsi</folder> 
+	 <filename>C:\Users\2dimage\Documents\2dimage_supsi\cucina01.jpg</filename> 
+	 <path>C:\Users\2dimage\Documents\2dimage_supsi\cucina01.jpg</path> 
+	<source> 
+		 <database>Unknown</database> 
+	</source> 
+	<size> 
+		<width>   960 </width>
+		<heigth> 1280 </width>
+		<depth>     3 </width>
+	</size> 
+	<segmented>0</segmented>
+	<object>
+		<name>frigorifero</name>
+<pose>Unspecified</pose> 
+<truncated>0</truncated> 
+<difficult>0</difficult> 
+		<bndbox> 
+			<xmin>93</xmin>
+			<ymin>152</ymin>
+			<xmax>180</xmax>
+			<ymax>657</ymax>
+		</bndbox> 
+	</object>
+</annotation> 
+<annotation> 
+	 <folder>2dimage_supsi</folder> 
+	 <filename>C:\Users\2dimage\Documents\2dimage_supsi\cucina02.jpg</filename> 
+	 <path>C:\Users\2dimage\Documents\2dimage_supsi\cucina02.jpg</path> 
+	<source> 
+		 <database>Unknown</database> 
+	</source> 
+	<size> 
+		<width>  1405 </width>
+		<heigth> 2048 </width>
+		<depth>     3 </width>
+	</size> 
+	<segmented>0</segmented>
+	<object>
+		<name>frigorifero</name>
+<pose>Unspecified</pose> 
+<truncated>0</truncated> 
+<difficult>0</difficult> 
+		<bndbox> 
+			<xmin>613</xmin>
+			<ymin>377</ymin>
+			<xmax>765</xmax>
+			<ymax>1258</ymax>
+		</bndbox> 
+	</object>
+	<object>
+		<name>sedia</name>
+<pose>Unspecified</pose> 
+<truncated>0</truncated> 
+<difficult>0</difficult> 
+		<bndbox> 
+			<xmin>1264</xmin>
+			<ymin>944</ymin>
+			<xmax>1547</xmax>
+			<ymax>1354</ymax>
+		</bndbox> 
+	</object>
+	<object>
+		<name>sedia</name>
+<pose>Unspecified</pose> 
+<truncated>0</truncated> 
+<difficult>0</difficult> 
+		<bndbox> 
+			<xmin>1637</xmin>
+			<ymin>905</ymin>
+			<xmax>1883</xmax>
+			<ymax>1320</ymax>
+		</bndbox> 
+	</object>
+</annotation> 
+<annotation> 
+	 <folder>2dimage_supsi</folder> 
+	 <filename>C:\Users\2dimage\Documents\2dimage_supsi\cucina03.jpg</filename> 
+	 <path>C:\Users\2dimage\Documents\2dimage_supsi\cucina03.jpg</path> 
+	<source> 
+		 <database>Unknown</database> 
+	</source> 
+	<size> 
+		<width>   189 </width>
+		<heigth>  267 </width>
+		<depth>     3 </width>
+	</size> 
+	<segmented>0</segmented>
+	<object>
+		<name>frigorifero</name>
+<pose>Unspecified</pose> 
+<truncated>0</truncated> 
+<difficult>0</difficult> 
+		<bndbox> 
+			<xmin>41</xmin>
+			<ymin>47</ymin>
+			<xmax>86</xmax>
+			<ymax>177</ymax>
+		</bndbox> 
+	</object>
+</annotation> 
